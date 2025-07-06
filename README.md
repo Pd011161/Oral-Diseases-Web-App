@@ -54,8 +54,11 @@ docker run -p 8000:8000 oral-yolo-backend
 ## 📦 How to Use
 
 **1.Start the backend (FastAPI):** Make sure port 8000 is available.
+
 **2.Start the frontend (Next.js):** App will run at http://localhost:3000.
+
 **3.Upload an oral image or snapshot oral image on webcam** via the web UI.
+
 **4.Review prediction results** with bounding boxes and disease labels.
 
 ---
