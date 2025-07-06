@@ -73,7 +73,7 @@ oral-diseases-web-app/
 │   │   └── yolov8.pt
 │   ├── attendance.db
 │   └── requirements.txt
-├── webapp/
+├── frontend/
 │   ├── app/
 │   │   └── page.tsx
 │   ├── components/
