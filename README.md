@@ -68,9 +68,12 @@ docker run -p 8000:8000 oral-yolo-backend
 ```bash
 oral-diseases-web-app/
 ├── backend/
-│   ├── api.py
+│   ├── app/
+│   │   └── api.py
 │   ├── models/
 │   │   └── yolov8.pt
+│   ├── data/
+│   │   └── pattern.csv
 │   ├── attendance.db
 │   └── requirements.txt
 ├── frontend/
