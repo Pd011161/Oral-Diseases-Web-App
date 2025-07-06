@@ -39,15 +39,21 @@ It also allows for convenient log management, image history, and usage for clini
 ### 1. Clone the Repository
 
 ```bash
+# Clone this repository
 git clone https://github.com/yourusername/oral-diseases-webapp.git
+
+# Move into the project directory
 cd oral-diseases-webapp
 ```
 
 ### 2. Setup Docker
 
 ```bash
-docker build -t oral-yolo-backend .
-docker run -p 8000:8000 oral-yolo-backend
+# Build the Docker images
+docker compose build
+
+# Start the containers in detached mode
+docker compose up -d
 ```
 ---
 
