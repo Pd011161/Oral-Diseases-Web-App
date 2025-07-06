@@ -1,0 +1,61 @@
+﻿fault,behavior,weight
+leukoplakia,drink alcohol,2
+leukoplakia,smoking,2
+leukoplakia,Chew betel nut,1
+leukoplakia,Eat spicy food,0
+leukoplakia,Can be wiped off,0
+leukoplakia,No symptoms,0
+leukoplakia,It always hurts,0
+leukoplakia,oral injury,0
+leukoplakia,Immune deficiency,0
+leukoplakia,Immunosuppression,0
+leukoplakia,Use steroid medication,0
+leukoplakia,Oral Health Problems,0
+lichenplanus,drink alcohol,0
+lichenplanus,smoking,0
+lichenplanus,Chew betel nut,0
+lichenplanus,Eat spicy food,1
+lichenplanus,Can be wiped off,0
+lichenplanus,No symptoms,0
+lichenplanus,It always hurts,0
+lichenplanus,oral injury,3
+lichenplanus,Immune deficiency,2
+lichenplanus,Immunosuppression,0
+lichenplanus,Use steroid medication,0
+lichenplanus,Oral Health Problems,0
+candidiasis,drink alcohol,0
+candidiasis,smoking,0
+candidiasis,Chew betel nut,0
+candidiasis,Eat spicy food,0
+candidiasis,Can be wiped off,2
+candidiasis,No symptoms,0
+candidiasis,It always hurts,0
+candidiasis,oral injury,0
+candidiasis,Immune deficiency,2
+candidiasis,Immunosuppression,0
+candidiasis,Use steroid medication,2
+candidiasis,Oral Health Problems,0
+otherwhite,drink alcohol,0
+otherwhite,smoking,0
+otherwhite,Chew betel nut,0
+otherwhite,Eat spicy food,0
+otherwhite,Can be wiped off,0
+otherwhite,No symptoms,3
+otherwhite,It always hurts,0
+otherwhite,oral injury,3
+otherwhite,Immune deficiency,0
+otherwhite,Immunosuppression,0
+otherwhite,Use steroid medication,0
+otherwhite,Oral Health Problems,2
+ulcer,drink alcohol,3
+ulcer,smoking,0
+ulcer,Chew betel nut,0
+ulcer,Eat spicy food,0
+ulcer,Can be wiped off,0
+ulcer,No symptoms,0
+ulcer,It always hurts,2
+ulcer,oral injury,2
+ulcer,Immune deficiency,0
+ulcer,Immunosuppression,2
+ulcer,Use steroid medication,0
+ulcer,Oral Health Problems,0
