@@ -1,11 +1,6 @@
 # Oral Diseases Web App
 
 A web application for detecting and managing oral diseases using deep learning (YOLOv8), with support for image upload, analysis, and user-friendly management.
-
----
-
-## 📚 Project Description
-
 This project provides a web interface for users to upload oral images and automatically detect diseases such as **Leukoplakia, Lichen planus, Candidiasis, Other White Lesions,** and **Ulcer** using state-of-the-art YOLO models.  
 It also allows for convenient log management, image history, and usage for clinics or research.
 
