@@ -66,19 +66,21 @@ docker run -p 8000:8000 oral-yolo-backend
 ## 📁 Project Structure
 
 ```bash
-oral-diseases-webapp/
+oral-diseases-web-app/
 ├── backend/
-│   ├── app.py
-│   ├── requirements.txt
-│   ├── models/           # YOLO model weights
-│   ├── MyFacerec.py
-│   └── ... (other backend files)
+│   ├── api.py
+│   ├── models/
+│   │   └── yolov8.pt
+│   ├── attendance.db
+│   └── requirements.txt
 ├── webapp/
-│   ├── pages/
+│   ├── app/
+│   │   └── page.tsx
 │   ├── components/
 │   ├── public/
+│   ├── styles/
 │   ├── tailwind.config.js
-│   └── ... (other frontend files)
+│   └── next.config.js
 ├── .gitignore
 ├── README.md
 └── docker-compose.yml
