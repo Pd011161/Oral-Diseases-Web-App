@@ -27,7 +27,7 @@ It also allows for convenient log management, image history, and usage for clini
 
 - **Frontend:** React, Next.js, Tailwind CSS
 - **Backend:** FastAPI (Python)
-- **Machine Learning:** YOLOv7/YOLOv8
+- **Machine Learning:** YOLOv8
 - **Database:** SQLite (for attendance/image logs)
 - **Deployment:** Docker, Uvicorn, Node.js
 - **Other:** OpenCV, face_recognition, Pandas
