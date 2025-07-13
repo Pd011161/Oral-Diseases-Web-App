@@ -1,5 +1,9 @@
 # 🦷 Oral Diseases Web App
 
+🎬 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/JOHIZm7slEk/hqdefault.jpg)](https://youtu.be/JOHIZm7slEk)
+
 A full-stack web application for **automatic oral disease detection and case review** using deep learning (YOLOv8), combined with clinical input forms for more accurate scoring.  
 Upload intraoral images, fill out a clinical form, receive weighted AI predictions with bounding boxes, and review case history and statistics — all in a modern, user-friendly interface.
 
